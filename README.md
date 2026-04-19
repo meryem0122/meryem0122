@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/meryem-el-mansouri-303198333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/meryem-el-mansouri-303198333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:meryemelmansouri01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/meryem0122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -15,9 +15,8 @@
 ## 👩‍💻 About Me
 
 - 🎓 2nd-year engineering student at **INPT Rabat**, specializing in **Cloud & DevOps**
-- ☁️ Hands-on with **AWS**, **Docker**, **Kubernetes**, **GitHub Actions** & **Terraform**
+- ☁️ Hands-on with **AWS**, **Docker**, **Kubernetes** & **GitHub Actions**
 - 🔐 Building toward **DevSecOps** — cloud infrastructure with security at its core
-- 🌱 Currently exploring **container runtimes**, **CI/CD pipelines** & **cloud-native architectures**
 - 🔍 Looking for a **PFA internship** in Cloud / DevOps / DevSecOps
 
 ---
