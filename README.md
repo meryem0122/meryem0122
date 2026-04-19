@@ -67,7 +67,7 @@
 ## 🌍 Languages
 
 - 🇫🇷 French — Fluent
-- 🇬🇧 English — B2 (TOEIC 780)
+- 🇬🇧 English — B2 (TOEIC)
 - 🇪🇸 Spanish — Beginner
 
 ---
