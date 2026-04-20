@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meryem 👋</h1>
 
 <p align="center">
-  <em>Cloud & DevOps Engineering Student @ INPT Rabat · Building toward DevSecOps ☁️</em>
+  <em>Cloud & DevOps Engineering Student @ INPT Rabat · Building toward Cloud security & DevSecOps ☁️</em>
 </p>
 
 <p align="center">
