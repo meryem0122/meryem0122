@@ -1,43 +1,44 @@
 <h1 align="center">Hi, I'm Meryem 👋</h1>
 
 <p align="center">
-  <em>Cloud & DevOps Engineering Student @ INPT Rabat · Building toward Cloud security & DevSecOps ☁️</em>
+  <em>Cloud & DevOps Engineering Student @ INPT Rabat · INSA Lyon Exchange · Building toward DevSecOps ☁️</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meryem-el-mansouri-303198333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:meryemelmansouri01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/meryem0122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://gitlab.com/meryemelmansouri01"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 2nd-year engineering student at **INPT Rabat**, specializing in **Cloud & DevOps**
-- ☁️ Hands-on with **AWS**, **Docker**, **Kubernetes** & **GitHub Actions**
-- 🔐 Building toward **DevSecOps** — cloud infrastructure with security at its core
-- 🔍 Looking for a **PFA internship** in Cloud / DevOps / DevSecOps
+- 🎓 3rd-year engineering student at **INPT Rabat** (Ubiquitous & Distributed Systems — Cloud & IoT), currently on exchange at **INSA Lyon**
+- ☁️ Hands-on with **AWS**, **Terraform**, **Docker**, **Kubernetes** & **GitLab CI/CD**
+- 🔐 Building toward **DevSecOps** — infrastructure automation with security built in, not bolted on
+- 🔍 Looking for a **PFE internship** (Cloud / DevOps / DevSecOps) starting **February 2027**
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 **Languages & Tools**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Architecture & Databases**
-
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -45,22 +46,24 @@
 
 ## 🚀 Featured Projects
 
-### 🐳 [Mini Container Runtime](https://github.com/meryem0122)
-> A minimal Docker-like container runtime built in **Go**
+### ☁️ [Infrastructure AWS as Code](https://gitlab.com/meryemelmansouri01/REPO-NAME)
+> Terraform · AWS (VPC, ALB, ECS Fargate) · GitLab CI
 
-- Linux namespace isolation (PID, UTS, Mount, IPC) + cgroup v2 resource limits
-- Filesystem isolation via **chroot** with Alpine rootfs
-- Built from scratch as a deep dive into how containers actually work
+- Provisioned a full AWS infrastructure hosting a real internship-tracking app (Node.js/Express + PostgreSQL)
+- Automated deployment via GitLab CI (`plan` on merge request, `apply` after approval)
+- Least-privilege IAM, automated create/destroy of the whole stack
 
----
+### 🔐 [CI/CD Pipeline — DevSecOps & GitOps](https://gitlab.com/meryemelmansouri01/REPO-NAME)
+> GitLab CI · Trivy · ArgoCD
 
-### 🏥 [Arkimed – Patient-Controlled Medical Records](https://github.com/meryem0122)
-> A secure healthcare platform built with a microservices architecture
+- Pipeline scanning container images with **Trivy**, blocking promotion on critical vulnerabilities
+- GitOps deployment with **ArgoCD** — Git as the single source of truth for cluster state
 
-- **5 microservices** with JWT/RBAC and a consent-based access model
-- **Nginx** API gateway · **AWS S3** for secure file storage
-- Full **CI/CD pipeline** with GitHub Actions · Containerized with Docker Compose
+### ⚙️ [Kubernetes — Secure & Scalable](https://gitlab.com/meryemelmansouri01/REPO-NAME)
+> Kubernetes · Helm · Ingress · HPA · NetworkPolicies
 
+- Application packaged with **Helm**, exposed via **Ingress**, autoscaled with **HPA** (tested under real load, 1→5 replicas)
+- Zero-trust network isolation with default-deny **NetworkPolicies**
 
 ---
 
@@ -68,7 +71,7 @@
 
 - 🇫🇷 French — Fluent
 - 🇬🇧 English — B2 (TOEIC)
-- 🇪🇸 Spanish — Beginner
+- 🇲🇦 Arabic — Native
 
 ---
 
