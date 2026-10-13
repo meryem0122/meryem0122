@@ -53,13 +53,13 @@
 - Automated deployment via GitLab CI (`plan` on merge request, `apply` after approval)
 - Least-privilege IAM, automated create/destroy of the whole stack
 
-### 🔐 [CI/CD Pipeline — DevSecOps & GitOps](https://gitlab.com/meryemelmansouri01/REPO-NAME)
+### 🔐 [CI/CD Pipeline — DevSecOps & GitOps](https://gitlab.com/meryemelmansouri01/pfe-tracker-gitops-app)
 > GitLab CI · Trivy · ArgoCD
 
 - Pipeline scanning container images with **Trivy**, blocking promotion on critical vulnerabilities
 - GitOps deployment with **ArgoCD** — Git as the single source of truth for cluster state
 
-### ⚙️ [Kubernetes — Secure & Scalable](https://gitlab.com/meryemelmansouri01/REPO-NAME)
+### ⚙️ [Kubernetes — Secure & Scalable](https://gitlab.com/meryemelmansouri01/pfe-tracker-chart)
 > Kubernetes · Helm · Ingress · HPA · NetworkPolicies
 
 - Application packaged with **Helm**, exposed via **Ingress**, autoscaled with **HPA** (tested under real load, 1→5 replicas)
